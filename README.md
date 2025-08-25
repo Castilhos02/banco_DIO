@@ -1,7 +1,3 @@
-Claro, Douglas! Aqui está um arquivo `README.md` completo e bem estruturado para acompanhar seu projeto no GitHub:
-
----
-
 ```markdown
 # 💰 Sistema Bancário em Python
 
